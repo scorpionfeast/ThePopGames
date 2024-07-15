@@ -1,5 +1,6 @@
 google.com, pub-4331062987150332, DIRECT, f08c47fec0942fa0
 applovin.com, f21f99ab6e527e63173555bb47a113d6, DIRECT
+facebook.com, 435569614759437, DIRECT, c3e20eee3f780d68
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
@@ -241,4 +242,3 @@ videoheroes.tv, 212430, RESELLER, 064bc410192443d8
 playwire.com, 1025119, RESELLER
 pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
 facebook.com, 435569614759437, RESELLER, c3e20eee3f780d68
-facebook.com, 435569614759437, DIRECT, c3e20eee3f780d68
